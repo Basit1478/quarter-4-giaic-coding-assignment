@@ -3,7 +3,7 @@
 **Class 13 Assignment** - Containerizing Next.js and FastAPI applications using Docker
 
 **Student:** [Basit Ali]  
-**Program:** GIAIC Q2 2024  
+**Program:** GIAIC Q4 2026 
 **Date:** January 2026
 
 ---
